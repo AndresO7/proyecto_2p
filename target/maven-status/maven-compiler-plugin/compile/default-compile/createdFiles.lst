@@ -1,0 +1,11 @@
+ec\edu\espe\proyecto_2p\Proyecto2pApplication.class
+ec\edu\espe\proyecto_2p\config\WebSocketConfig.class
+ec\edu\espe\proyecto_2p\model\ChatMessage.class
+ec\edu\espe\proyecto_2p\model\ChatRoom.class
+ec\edu\espe\proyecto_2p\model\ChatRoom$ChatRoomBuilder.class
+ec\edu\espe\proyecto_2p\controller\ChatRoomController.class
+ec\edu\espe\proyecto_2p\repository\ChatRoomRepository.class
+ec\edu\espe\proyecto_2p\controller\WebSocketEventListener.class
+ec\edu\espe\proyecto_2p\controller\ChatController.class
+ec\edu\espe\proyecto_2p\model\ChatMessage$MessageType.class
+ec\edu\espe\proyecto_2p\model\ChatMessage$ChatMessageBuilder.class
